@@ -84,6 +84,10 @@ This system is ideal for individuals, families, and professionals who want a sim
 1. **User Management Module**: Handles registration, authentication, and profile data.
 2. **Expense Tracker Module**: Logs and manages expenses with category integration.
 
+---
+
+## Screenshots
+
 
 ![Screenshot 2024-11-14 143256](https://github.com/user-attachments/assets/b36890bb-3d95-4614-b7cc-cb8b6f177eee)
 ![Screenshot 2024-11-14 143242](https://github.com/user-attachments/assets/f936fc7a-46c8-42c7-96ae-bb22ad5d84f2)
